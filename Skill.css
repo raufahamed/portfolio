@@ -9,15 +9,8 @@
 }
 
 .skillimage {
-  width: 130px;
-  height: 130px;
-}
-
-@media (max-width: 450px) {
-  .skillimage {
-    height: 60px;
-    width: 60px;
-  }
+  width: 150px;
+  height: 150px;
 }
 
 .skills {
@@ -51,7 +44,7 @@
 @media (max-width: 450px) {
   .skill-slide img {
     height: 50px;
-    margin: 0 5px;
+    margin: 10px 5px;
   }
 
   .skilltitle {
